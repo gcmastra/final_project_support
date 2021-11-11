@@ -22,10 +22,10 @@ Example of where this could be used in dashboard is if we have a visualization w
 The player_ID column might be useful if we do any additional webscraping from the same NFL source data.
 
 The Jupyter Notebook file saved in this repo contains the steps used to perform the ETL.  Please refer to this file:
-https://github.com/gcmastra/final_project_support/blob/82b4a0e1870cf23f5ddce49ad21fcfaf2ec5b65d/NFL_ETL_practice2.ipynb
+https://github.com/gcmastra/final_project_support/blob/d646d78bd0edaf78f9d6625bfc3621bf2533c063/NFL_ETL_practice2.ipynb
 <br>Actually this is NOT the most recent version of the notebook.  There is a newer version that has all the steps in the ETL for this file.  I will locate that and paste it in as soon as I find it.
 
-Initially I will do all the steps using one file to get all the pieces working.  For 2nd and subsequent files the process should go faster and more smoothly.
+Initially I plan to do all the steps using one file to get all the pieces working.  For 2nd and subsequent files the process should go faster and more smoothly.
 
 ### AWS RDS used to create PostGres 12-8-1 instance 
 
